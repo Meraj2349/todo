@@ -1,6 +1,1 @@
-{
-    "title": "The 1st Post",
-    "id":"01",
-    "description": "post sumthing",
-    "status": "published"
-}
+[{"title":"The 1st Post","id":"1","description":"post sumthing","status":"published"},{"title":"The 1st Post","id":"2","description":"post sumthing","status":"published"},{"id":"1","title":"dfjdfj","description":"bdbfd","status":"ncjd"}]
